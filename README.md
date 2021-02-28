@@ -4,6 +4,24 @@
 
 https://www.cnblogs.com/xgqfrms/p/14039391.html
 
+## install lua
+
+```sh
+$ curl -R -O http://www.lua.org/ftp/lua-5.4.2.tar.gz
+$ tar zxf lua-5.4.2.tar.gz
+$ cd lua-5.4.2
+
+$ make all test
+# install ✅
+$ make install
+```
+
+```sh
+$ lua -v
+# Lua 5.4.2  Copyright (C) 1994-2020 Lua.org, PUC-Rio
+
+```
+
 ## Lua 教程
 
 https://www.runoob.com/lua/lua-tutorial.html
