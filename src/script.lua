@@ -5,10 +5,3 @@
 print("Hello World！");
 print("www.xgqfrms.xyz");
 
-
---单行注释
-
---[[
- 多行注释
- 多行注释
---]]
