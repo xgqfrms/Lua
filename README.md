@@ -8,6 +8,10 @@ https://www.cnblogs.com/xgqfrms/p/14039391.html
 
 https://www.runoob.com/lua/lua-tutorial.html
 
+> Lua 5.3 参考手册
+
+https://www.runoob.com/manual/lua53doc/
+
 ## demo
 
 ```sh
